@@ -19,6 +19,9 @@ items:
     - civicdata/civicdata.github.io
     - karrot-dev/karrot-frontend
     - activist-org/activist
+    - chaynHQ/bloom-frontend
+    - chaynHQ/bloom-backend
+    - chaynHQ/soulmedicine
 display_name: Social Impact
 created_by: bescalante
 ---
